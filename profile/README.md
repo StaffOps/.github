@@ -1,12 +1,11 @@
-## Hi there 👋
+### StaffOps
 
-<!--
+Open-source tooling for Kubernetes platforms: the things we wished existed, built to be reused.
 
-**Here are some ideas to get you started:**
+- **[aigent-squad](https://github.com/StaffOps/aigent-squad)**: multi-agent ChatOps for AWS/Kubernetes operations, read-only by default
+- **[otel-libs](https://github.com/StaffOps/otel-libs)**: standardized OpenTelemetry instrumentation libraries
+- **[anomaly-detection](https://github.com/StaffOps/anomaly-detection)**: Go + ML anomaly detection for Kubernetes clusters
+- **[maturity-score-card](https://github.com/StaffOps/maturity-score-card)**: a single 0–100 score for how well an app is built, shipped and run
+- **[helm-charts](https://github.com/StaffOps/helm-charts)**: deploy the suite
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌐 [staffops.github.io](https://staffops.github.io) · 🎓 Looking to learn? See [StaffOps Mentoring](https://github.com/StaffOps-Mentoring)
